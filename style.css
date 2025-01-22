@@ -1,0 +1,12 @@
+.form-signin {
+    max-width: 330px !important;
+    padding: 1rem;
+}
+
+form img.mb-4 {
+    margin-bottom: 0.5rem !important;
+}
+
+.form-label {
+    align-items: center !important; 
+}
